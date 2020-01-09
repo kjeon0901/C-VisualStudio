@@ -1,0 +1,6 @@
+﻿  소스3.c
+c:\users\전경희\source\repos\project12\project12\소스3.c(111): warning C4133: '=': 'mem *'과(와) 'mem *' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project12\project12\소스3.c(94): warning C4133: '초기화 중': 'mem *'과(와) 'mem *' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project12\project12\소스3.c(157): warning C4133: '=': 'mem *'과(와) 'mem *' 사이의 형식이 호환되지 않습니다.
+  Project12.vcxproj -> C:\Users\전경희\source\repos\Project12\Debug\Project12.exe
+  Project12.vcxproj -> C:\Users\전경희\source\repos\Project12\Debug\Project12.pdb (Partial PDB)

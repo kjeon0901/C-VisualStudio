@@ -1,0 +1,4 @@
+﻿  소스2.c
+c:\users\전경희\source\repos\project18\project18\소스2.c(102): warning C4477: 'fscanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double'입니다.
+  Project18.vcxproj -> C:\Users\전경희\source\repos\Project18\Debug\Project18.exe
+  Project18.vcxproj -> C:\Users\전경희\source\repos\Project18\Debug\Project18.pdb (Partial PDB)

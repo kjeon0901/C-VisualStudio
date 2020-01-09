@@ -1,0 +1,8 @@
+﻿  숙제.c
+c:\users\전경희\source\repos\project27\project27\숙제.c(54): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+c:\users\전경희\source\repos\project27\project27\숙제.c(55): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+c:\users\전경희\source\repos\project27\project27\숙제.c(98): warning C4047: '함수': 'UINT'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\전경희\source\repos\project27\project27\숙제.c(98): warning C4024: 'MessageBoxA': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+c:\users\전경희\source\repos\project27\project27\숙제.c(76): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'char (*)[3][7]'과(와) 다릅니다.
+  Project27.vcxproj -> C:\Users\전경희\source\repos\Project27\Debug\Project27.exe
+  Project27.vcxproj -> C:\Users\전경희\source\repos\Project27\Debug\Project27.pdb (Partial PDB)

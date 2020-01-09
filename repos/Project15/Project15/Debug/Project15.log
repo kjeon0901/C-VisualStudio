@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\전경희\source\repos\project15\project15\소스.c(64): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\전경희\source\repos\project15\project15\소스.c(76): warning C4715: 'Login': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Project15.vcxproj -> C:\Users\전경희\source\repos\Project15\Debug\Project15.exe
+  Project15.vcxproj -> C:\Users\전경희\source\repos\Project15\Debug\Project15.pdb (Partial PDB)

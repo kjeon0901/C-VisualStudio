@@ -1,0 +1,14 @@
+﻿  소스.c
+c:\users\전경희\source\repos\project28\project28\소스.c(118): warning C4133: '함수': 'WCHAR [10]'과(와) 'LPCSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project28\project28\소스.c(119): warning C4133: '함수': 'WCHAR [12]'과(와) 'LPCSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project28\project28\소스.c(120): warning C4133: '함수': 'WCHAR [5]'과(와) 'LPCSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project28\project28\소스.c(135): warning C4133: '함수': 'int [12]'과(와) 'LPSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project28\project28\소스.c(136): warning C4133: '함수': 'WCHAR [10]'과(와) 'LPSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project28\project28\소스.c(137): warning C4133: '함수': 'int [5]'과(와) 'LPSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project28\project28\소스.c(143): warning C4133: '함수': 'WCHAR [12]'과(와) 'LPSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project28\project28\소스.c(144): warning C4133: '함수': 'WCHAR [5]'과(와) 'LPSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project28\project28\소스.c(146): warning C4133: '=': 'WCHAR *'과(와) 'LPSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project28\project28\소스.c(147): warning C4133: '=': 'WCHAR *'과(와) 'LPSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project28\project28\소스.c(149): warning C4133: '=': 'WCHAR *'과(와) 'LPSTR' 사이의 형식이 호환되지 않습니다.
+  Project28.vcxproj -> C:\Users\전경희\source\repos\Project28\Debug\Project28.exe
+  Project28.vcxproj -> C:\Users\전경희\source\repos\Project28\Debug\Project28.pdb (Partial PDB)

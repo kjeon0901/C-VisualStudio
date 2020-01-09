@@ -1,0 +1,9 @@
+﻿  소스.c
+c:\users\전경희\source\repos\project26\project26\소스.c(58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\전경희\source\repos\project26\project26\소스.c(73): warning C4047: '함수': 'UINT'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\전경희\source\repos\project26\project26\소스.c(73): warning C4024: 'MessageBoxA': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+c:\users\전경희\source\repos\project26\project26\소스.c(69): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\전경희\source\repos\project26\project26\소스.c(69): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\전경희\source\repos\project26\project26\소스.c(69): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Project26.vcxproj -> c:\users\전경희\source\repos\Project26\Debug\Project26.exe
+  Project26.vcxproj -> c:\users\전경희\source\repos\Project26\Debug\Project26.pdb (Partial PDB)

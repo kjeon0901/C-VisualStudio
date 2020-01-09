@@ -1,0 +1,19 @@
+﻿  소스.c
+c:\users\전경희\source\repos\project29\project29\소스.c(65): warning C4133: '=': 'char [7]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(72): warning C4133: '함수': 'char [7]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(72): warning C4133: '함수': 'char [12]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(100): error C2065: 'IDB_BRICK': 선언되지 않은 식별자입니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(102): error C2065: 'IDB_BLANK': 선언되지 않은 식별자입니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(147): error C2065: 'ID_START': 선언되지 않은 식별자입니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(158): error C2065: 'ID_START': 선언되지 않은 식별자입니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(147): error C2051: case 식이 상수가 아닙니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(202): warning C4133: '함수': 'char [36]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(202): warning C4133: '함수': 'char [16]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(203): error C2065: 'ID_START': 선언되지 않은 식별자입니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(203): warning C4047: '함수': 'LPARAM'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(203): warning C4024: 'SendMessageW': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(205): error C2065: 'ID_START': 선언되지 않은 식별자입니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(217): warning C4133: '함수': 'char [8]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(252): warning C4133: '함수': 'char [128]'과(와) 'LPWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(252): warning C4133: '함수': 'char [10]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+c:\users\전경희\source\repos\project29\project29\소스.c(253): warning C4133: '함수': 'char [128]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.

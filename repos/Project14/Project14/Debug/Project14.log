@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\전경희\source\repos\project14\project14\소스.c(241): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xeb'이(가) 있습니다.
+  Project14.vcxproj -> C:\Users\전경희\source\repos\Project14\Debug\Project14.exe
+  Project14.vcxproj -> C:\Users\전경희\source\repos\Project14\Debug\Project14.pdb (Partial PDB)

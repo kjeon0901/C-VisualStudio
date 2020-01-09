@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\전경희\source\repos\project25\project25\소스.c(54): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+c:\users\전경희\source\repos\project25\project25\소스.c(51): warning C4101: 'hbr' :참조되지 않은 지역 변수입니다.
+c:\users\전경희\source\repos\project25\project25\소스.c(51): warning C4101: 'old' :참조되지 않은 지역 변수입니다.
+  Project25.vcxproj -> C:\Users\전경희\source\repos\Project25\Debug\Project25.exe
+  Project25.vcxproj -> C:\Users\전경희\source\repos\Project25\Debug\Project25.pdb (Partial PDB)

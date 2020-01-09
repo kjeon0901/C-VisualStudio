@@ -1,0 +1,36 @@
+﻿  소스.cpp
+c:\users\전경희\source\repos\project9\project9\소스.cpp(12): error C2371: 'mem': 재정의. 기본 형식이 다릅니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(11): note: 'mem' 선언을 참조하십시오.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(23): error C2027: 정의되지 않은 형식 'mem'을(를) 사용했습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(11): note: 'mem' 선언을 참조하십시오.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(23): error C2227: '->num' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(24): error C2027: 정의되지 않은 형식 'mem'을(를) 사용했습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(11): note: 'mem' 선언을 참조하십시오.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(24): error C2227: '->next' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(29): error C2027: 정의되지 않은 형식 'mem'을(를) 사용했습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(11): note: 'mem' 선언을 참조하십시오.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(29): error C2227: '->ID' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(29): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(29): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(29): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(61): error C2059: 구문 오류: 'new'
+c:\users\전경희\source\repos\project9\project9\소스.cpp(62): error C2059: 구문 오류: '->'
+c:\users\전경희\source\repos\project9\project9\소스.cpp(64): error C2059: 구문 오류: '->'
+c:\users\전경희\source\repos\project9\project9\소스.cpp(66): error C2059: 구문 오류: '->'
+c:\users\전경희\source\repos\project9\project9\소스.cpp(67): error C2059: 구문 오류: '->'
+c:\users\전경희\source\repos\project9\project9\소스.cpp(68): error C2027: 정의되지 않은 형식 'mem'을(를) 사용했습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(11): note: 'mem' 선언을 참조하십시오.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(68): error C2227: '->next' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(68): error C2059: 구문 오류: ';'
+c:\users\전경희\source\repos\project9\project9\소스.cpp(69): error C2059: 구문 오류: ';'
+c:\users\전경희\source\repos\project9\project9\소스.cpp(71): error C2059: 구문 오류: '->'
+c:\users\전경희\source\repos\project9\project9\소스.cpp(74): error C2059: 구문 오류: ';'
+c:\users\전경희\source\repos\project9\project9\소스.cpp(64): warning C4473: 'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(64): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(64): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(66): warning C4473: 'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(66): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(66): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+c:\users\전경희\source\repos\project9\project9\소스.cpp(71): warning C4473: 'fprintf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(71): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 0개가 제공되었습니다.
+  c:\users\전경희\source\repos\project9\project9\소스.cpp(71): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
